@@ -1,2 +1,2 @@
 # Define the variable board 
-variable = board [" " " " " "]
+variable = board [" " " " " " " " " " " " " " " " " "]
